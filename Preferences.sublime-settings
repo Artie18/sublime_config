@@ -1,0 +1,11 @@
+{
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"NASM x86 Assembly"
+	],
+	"trim_trailing_white_space_on_save": true,
+	"rulers": [80, 120]
+}
+
